@@ -1,3 +1,3 @@
 Hi there!
 ------------------------------------------------------------------
-Happy coding! 🧠🤖💥
+I am learning Python from scratch, happy coding! 🧠🤖💥
