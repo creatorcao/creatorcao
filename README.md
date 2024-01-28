@@ -1,3 +1,8 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcreatorcao&label=Visitors%20No.&labelColor=%23fffbc1&countColor=%23b6e2a1&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcreatorcao)
 
-Happy coding!😊🤖
+Hi there!
+
+I am a PhD student working on machine learning methods. 
+
+
+
+You are my ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcreatorcao&label=No.%20&countColor=%23dce775&style=plastic&labelStyle=upper) visitors. Happy coding! 😊🤖
