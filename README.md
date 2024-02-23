@@ -1,7 +1,16 @@
 
-Hi there!
+Hi there! 👋😊
 
-I am a PhD student working on machine learning methods. 
+I'm a PhD candidate working on machine learning methods. I'm passionate about computer vision and natural language processing. 
 
+For more insights into my work and interests, feel free to check out my website and leave your comments: [https://creatorcao.github.io/](https://creatorcao.github.io/).
 
-Visitor ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcreatorcao&label=No.%20&countColor=%23dce775&style=plastic), happy coding! 😊🤖
+Happy coding! 🤖
+
+#  
+<a href="https://github.com/creatorcao/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creatorcao&theme=graywhite" />
+</a>
+<a href="https://github.com/creatorcao">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=creatorcao&hide_progress=true&theme=graywhite&layout=compact&langs_count=8&card_width=320" />
+</a>
