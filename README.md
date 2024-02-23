@@ -10,8 +10,8 @@ Happy coding! 🤖
 
 #  
 <a href="https://github.com/creatorcao/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=creatorcao&theme=vue" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=creatorcao&theme=graywhite" />
 </a>
 <a href="https://github.com/creatorcao">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=creatorcao&hide_progress=true&theme=vue&layout=compact&langs_count=8&card_width=330" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=creatorcao&hide_progress=true&theme=graywhite&layout=compact&langs_count=8&card_width=330" />
 </a>
