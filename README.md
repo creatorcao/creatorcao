@@ -1,7 +1,9 @@
 
 Hi there! 👋😊
 
-I'm a PhD candidate working on machine learning methods. I'm passionate about computer vision and natural language processing. 
+I'm a PhD candidate working on machine learning methods. 
+
+I'm passionate about computer vision and natural language processing. 
 
 Happy coding! 🤖
 
