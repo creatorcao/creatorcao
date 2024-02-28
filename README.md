@@ -3,8 +3,6 @@ Hi there! 👋😊
 
 I'm a PhD candidate working on machine learning methods. I'm passionate about computer vision and natural language processing. 
 
-For more insights into my work and interests, visit my website and leave your comments: [https://creatorcao.github.io/](https://creatorcao.github.io/).
-
 Happy coding! 🤖
 
 
