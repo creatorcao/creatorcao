@@ -1,7 +1,7 @@
 
 Hi there! 👋😊
 
-I'm a PhD candidate working on machine learning methods. 
+I'm a PhD candidate working in reproductive medicine.
 
 I'm passionate about computer vision and natural language processing. 
 
